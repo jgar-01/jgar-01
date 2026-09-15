@@ -7,8 +7,8 @@ I hold an M.S. in Data Science, but my real focus is staying sharp and competiti
 - **Continuous Learning:** Sharpening SQL architecture, ETL design, and modern engineering tooling.
   
 ### 💡 I'm looking for help with...
-- **Finding a mentor:** Connecting with experienced data professionals who can offer guidance, feedback, and perspective as I break into the field.
-- **Opportunities:** Locating roles or projects where I can put my background and daily technical practice to work in a real-world environment.
+- **Collaboration:** Connecting with other data engineers and analysts building modern, scalable data stacks.
+- **Technical Growth:** Exchanging ideas on best practices for scaling SQL pipelines, ETL design, and production-grade workflows.
 
   
 ⚡ **Fun fact:** I made it through a US military selection process sick with **Covid-19**.
