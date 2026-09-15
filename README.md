@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Juan Garcia
 
-I hold an M.S. in Data Science, but my real focus is staying sharp and competitive through hands-on curiosity. I spend my days deep-diving into SQL, building real-world workflows, and proactively mastering the tools currently driving the industry.
+I hold an M.S. in Data Science, but my real focus is staying sharp and competitive through hands-on curiosity. I spend my days deep-diving into SQL, building real-world workflows, and turning complex raw data into clean, structured insights.
 
 ### 🔨 What I'm working on
 - **Current Project:** Building out my data engineering portfolio with production-grade SQL pipelines (like my [Portland Airbnb market analysis pipeline](https://github.com/jgar-01/data-engineering-sandbox/tree/main/portland-airbnb)).
